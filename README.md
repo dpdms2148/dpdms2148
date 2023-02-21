@@ -1,16 +1,35 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=f1f1fe&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yeeun's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
 
 <!--
-**dpdms2148/dpdms2148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠Tech List🛠
+<div>
+  <img src="https://img.shields.io/badge/java-4479A1?style=for-the-badge&logo=java&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+</div>
+ -->
+<div align="center">
+<br><br><br>
 
-Here are some ideas to get you started:
+<!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br>
+
+<!-- dpdms2148's profile -->
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dpdms2148&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=E3E3E3A8&text_color=000000&title_color=918FE0&count_private=true" width=48% />
+</a>
+  <a href="https://github.com/dpdms2148/github-stats">
+ <img src="https://raw.githubusercontent.com/dpdms2148/github-stats/output/generated/languages.svg" width=51% />
+</a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=98%/>
+</a> -->
+
+
+<br><br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpdms2148&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
