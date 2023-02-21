@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </div>
  -->
-<div align="center">
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
@@ -19,14 +18,15 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dpdms2148&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=E3E3E3A8&text_color=000000&title_color=918FE0&count_private=true" width=48% />
 </a>
-<a href="https://github.com/dpdms2148/github-stats">
+<!-- <a href="https://github.com/dpdms2148/github-stats">
  <img src="https://raw.githubusercontent.com/dpdms2148/github-stats/master/generated/languages.svg" width=51% />
-</a>
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=98%/>
 </a> -->
+  <br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=60%/>
+</a>
 
 
 <br><br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpdms2148&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpdms2148&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
