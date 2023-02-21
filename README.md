@@ -23,10 +23,10 @@
 </a> -->
   <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=60%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=70%/>
 </a>
 
 
 <br><br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpdms2148&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpdms2148&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com) -->
