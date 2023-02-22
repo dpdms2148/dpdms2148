@@ -16,14 +16,14 @@
 <!-- dpdms2148's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpdms2148&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=E3E3E3A8&text_color=000000&title_color=918FE0&count_private=true" width=48% />
+  <img src="https://github-readme-stats.vercel.app/api?username=dpdms2148&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=E3E3E3A8&text_color=000000&title_color=918FE0&count_private=true" width=49% />
 </a>
-<!-- <a href="https://github.com/dpdms2148/github-stats">
- <img src="https://raw.githubusercontent.com/dpdms2148/github-stats/master/generated/languages.svg" width=51% />
-</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dpdms2148&layout=compact&hide=python,css,powershell,php,batchfile&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=000000&text_color=000000&title_color=918FE0" width=49% />
+</a>
   <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=70%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=99%/>
 </a>
 
 
