@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dpdms2148&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=E3E3E3A8&text_color=000000&title_color=918FE0&count_private=true" width=49% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dpdms2148&layout=compact&hide=python,css,powershell,php,batchfile&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=000000&text_color=000000&title_color=918FE0" width=49% />
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dpdms2148&layout=compact&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=000000&text_color=000000&title_color=918FE0" width=49% />
 </a>
   <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
