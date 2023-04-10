@@ -22,9 +22,9 @@
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dpdms2148&layout=compact&theme=material-palenight&hide_border=true&bg_color=f1f1f1&icon_color=000000&text_color=000000&title_color=918FE0" width=49% />
 </a>
   <br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpdms2148&theme=react-dark&bg_color=f1f1f1&hide_border=true&line=8A87D0&color=000000" width=99%/>
-</a>
+</a> -->
 
 
 <br><br><br>
