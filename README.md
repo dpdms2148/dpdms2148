@@ -14,7 +14,7 @@
 ### 📖포트폴리오 상세
 [Notion](https://aged-dinghy-480.notion.site/Yeeun-s-Portfolio-69f6aed901644c1dabdb627e9c0079b9?pvs=4)
 ### 📘포트폴리오 요약
-![portfolio](https://github.com/dpdms2148/dpdms2148/one-page-portfolio.jpg)
+![portfolio](https://github.com/dpdms2148/dpdms2148/assets/57666226/d857ad5e-eaf1-457f-9864-316319d62dc7)
 <!-- dpdms2148's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
