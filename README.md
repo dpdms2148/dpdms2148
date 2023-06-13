@@ -8,11 +8,13 @@
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-</div>
- -->
+-->
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
-
+### 📖포트폴리오 상세
+[Notion](https://aged-dinghy-480.notion.site/Yeeun-s-Portfolio-69f6aed901644c1dabdb627e9c0079b9?pvs=4)
+### 📘포트폴리오 요약
+![portfoliio](https://github.com/dpdms2148/dpdms2148/image/one-page-portfoliio)
 <!-- dpdms2148's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
