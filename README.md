@@ -12,7 +12,7 @@
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 ### 📚블로그
-[Blog](https://yeeuns-log.tistory.com/category/CS)
+[Blog](https://yeeuns-log.tistory.com)
 ### 📘포트폴리오
 [Notion](https://aged-dinghy-480.notion.site/Yeeun-s-Portfolio-69f6aed901644c1dabdb627e9c0079b9?pvs=4)
 <!-- ### 포트폴리오 요약
